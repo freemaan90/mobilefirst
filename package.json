@@ -1,0 +1,23 @@
+{
+  "name": "mobile-first",
+  "version": "1.0.0",
+  "description": "curso de mobile first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freemaan90/mobilefirst.git"
+  },
+  "keywords": [
+    "mobile-first",
+    "javascript"
+  ],
+  "author": "Frederico Zanoni Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freemaan90/mobilefirst/issues"
+  },
+  "homepage": "https://github.com/freemaan90/mobilefirst#readme"
+}
